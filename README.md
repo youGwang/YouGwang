@@ -2,7 +2,11 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youGwang&show_icons=true&theme=radical)
-# 💪Skills
+
+### 🖍Tech Stack
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSeona-dev)](https://github.com/anuraghazra/github-readme-stats)﻿
+
+### 💪Skills
 ### Platforms & Languages
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logo&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 

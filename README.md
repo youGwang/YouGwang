@@ -27,4 +27,5 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=00BFFF)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=footer)
+
